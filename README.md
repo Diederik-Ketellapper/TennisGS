@@ -11,16 +11,16 @@ In order to do so we are going to use the a collection of datasets from the UCI 
 
 #### Aims
 The aims in preprocessing are the following:
-1)Merge the 8 datasets into a unique dataset with new columns for tournament and Gender. The issues are that the columns and players names accross the different datasets are not spelled in the same manner.
-2) The dataset has a lot of missing data which should be imputed.
-3)Create a new players data set with the stats corresponding to each player per match, for estimation purposes.
+1. Merge the 8 datasets into a unique dataset with new columns for tournament and Gender. The issues are that the columns and players names accross the different datasets are not spelled in the same manner.
+2. The dataset has a lot of missing data which should be imputed.
+3. Create a new players data set with the stats corresponding to each player per match, for estimation purposes.
 
 #### Visulation
 The aims in the visualization are the following:
-1)Show if the main statistics in tennis (Aces, Break Points and Unforced Errors) are comparable between surfaces, gender and rounds.
+1. Show if the main statistics in tennis (Aces, Break Points and Unforced Errors) are comparable between surfaces, gender and rounds.
 
 #### Estimation
 The aims in the estimation are the following:
-1)Perform a logistic regression and try to predict whether a player is male or female.
+1. Perform a logistic regression and try to predict whether a player is male or female.
 
 
