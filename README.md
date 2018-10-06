@@ -9,6 +9,7 @@ The goal of this project is to predict the gender of a tennis player from the ma
 
 In order to do so we are going to use the a collection of datasets from the UCI database with the grand slam matches statistics for 2013. There are 8 datasets, one per Grand Slam and Gender.
 
+The finished notebook can be found in: Projet_Notebook_EricBreaGarcia_DiederikKetellapper.ipynb
 #### Aims
 The aims in preprocessing are the following:
 1. Merge the 8 datasets into a unique dataset with new columns for tournament and Gender. The issues are that the columns and players names accross the different datasets are not spelled in the same manner.
