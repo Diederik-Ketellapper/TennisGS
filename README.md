@@ -2,7 +2,7 @@
 #### Data name
 Tennis Major Tournament Match Statistics
 #### Data URL 
-: https://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics
+https://archive.ics.uci.edu/ml/datasets/Tennis+Major+Tournament+Match+Statistics
 
 #### Short summary of the project and datasource :
 The goal of this project is to predict the gender of a tennis player from the match stats of 2013 Grand Slam Tournaments, and along the way showcase the Python skills learned during this course.
